@@ -1,0 +1,79 @@
+
+.fs14 {
+      font-size: 14px;
+      line-height: 21px;
+      color: #ffffff;
+  }
+  
+  .fs16 {
+      font-size: 16px;
+      line-height: 24px;
+      color: #000;
+  }
+  
+  .fs16-w {
+      font-size: 16px;
+      line-height: 24px;
+      color: #fff;
+  }
+  
+  .fs20-ml30 {
+      margin-left: 30px;
+      font-size: 20px;
+      line-height: 30px;
+      color: #fff;
+      text-decoration: none;
+  }
+  
+  .fs32 {
+      margin-left: 32px;
+      font-size: 48px;
+      line-height: 30px;
+      color: #000;
+      text-decoration: none;
+  }
+  
+  .fs36 {
+      font-size: 36px;
+      line-height: 54px;
+      color: #000;
+  }
+  
+  .fs36-w {
+      font-size: 36px;
+      line-height: 54px;
+      color: #fff;
+  }
+  
+  .fs24 {
+      font-size: 24px;
+      line-height: 36px;
+      color: #650300;
+  }
+  
+  .fs20-ml30 {
+      margin-left: 30px;
+      font-size: 20px;
+      line-height: 30px;
+      color: #fff;
+      text-decoration: none;
+  }
+  
+  .fs32 {
+      font-size: 32px;
+      text-align: center;
+      line-height: 48px;
+      padding: 24px 0;
+  }
+  
+  .fs42 {
+      font-size: 48px;
+      text-align: center;
+      line-height: 63px;
+  }
+  
+  .fs48 {
+      font-size: 48px;
+      line-height: 72px;
+      color: #aa0601;
+  }
